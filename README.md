@@ -1,6 +1,6 @@
 # Debian 9 (Stretch) Ansible Test Image
 
-[![CircleCI](https://circleci.com/gh/mtlynch/docker-debian9-ansible.svg?style=svg)](https://circleci.com/gh/mtlynch/docker-debian9-ansible) [![Docker Automated build](https://img.shields.io/docker/automated/mtlynch/docker-debian9-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/mtlynch/docker-debian9-ansible/)
+[![CircleCI](https://circleci.com/gh/mtlynch/docker-debian9-ansible.svg?style=svg)](https://circleci.com/gh/mtlynch/docker-debian9-ansible) [![Docker Automated build](https://img.shields.io/docker/automated/mtlynch/debian9-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/mtlynch/debian9-ansible/)
 
 Debian 9 (Stretch) Docker container for Ansible playbook and role testing.
 
